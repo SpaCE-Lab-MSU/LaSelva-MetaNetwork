@@ -1,2 +1,2 @@
 # LaSelva-MetaNetwork
-Code for creating a MetaNetwork of biodiversity along the La Selva-Volcan Barva elevation gradient.
+Code for creating the La Selva-Volcan Barva Biodiversity MetaNetwork.
