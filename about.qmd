@@ -1,5 +1,0 @@
----
-title: "Species of the La Selva-Barva MetaNetwork"
-format: html
----
-
