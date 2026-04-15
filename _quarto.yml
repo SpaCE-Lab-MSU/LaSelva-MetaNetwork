@@ -4,7 +4,7 @@ project:
   
 website: 
   title: "The La Selva-Barva MetaNetwork"
-  site-url: https://laselva-metanetwork.github.io
+  site-url: https://space-lab-msu.github.io/LaSelva-MetaNetwork/
   navbar:
     left: 
       - href: index.qmd
