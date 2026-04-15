@@ -9,7 +9,7 @@ website:
     left: 
       - href: index.qmd
         text: Home
-      - href: species.qmd
+      - href: about.qmd
         text: Species
         
 format:
