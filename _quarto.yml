@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   
   
 website: 
@@ -7,12 +8,13 @@ website:
   site-url: https://space-lab-msu.github.io/LaSelva-MetaNetwork/
   navbar:
     left: 
-      - href: docs/index.qmd
+      - href: index.qmd
         text: Home
       - text: "Species"
-        menu:
-        - href: species/plants/index.qmd
-          text: "Plants"
+        menu: 
+          - href: plants.qmd
+            text: 'Plants'
+          
         
 format:
   html:
